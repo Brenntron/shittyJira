@@ -1,0 +1,11 @@
+{
+  "manifest_version": 2,
+  "name": "Shitty Jira",
+  "version": "0.0.1",
+  "description": "It is a plugin for jira.",
+  "content_scripts": [{
+    "css": ["bs.css"],
+    "matches": ["https://ips-jira.siriusxm.com/*"]
+  }]
+}
+
