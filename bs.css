@@ -6,3 +6,7 @@
 .ghx-summary {
   max-width: 500px;
 }
+
+.ghx-issue-compact .ghx-flags, .ghx-issue-compact .ghx-key, .ghx-issue-compact .ghx-summary, .ghx-issue-compact .ghx-type img, .ghx-issue-compact .ghx-priority img {
+    vertical-align: top !important;
+  }
