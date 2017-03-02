@@ -1,9 +1,8 @@
 .ghx-issue-content {
   min-height: 100px;
-  white-space: normal;
+  white-space: normal !important;
 }
 
 .ghx-summary {
-  margin-top: 5px;
   max-width: 500px;
 }
